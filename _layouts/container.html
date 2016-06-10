@@ -1,0 +1,9 @@
+---
+layout: default
+---
+
+{% include splash.html image=page.splash-image text=page.splash-text %}
+
+<div class="container {{ page.title | slugify }}">
+	{{content}}
+</div>

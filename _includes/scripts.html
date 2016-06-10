@@ -1,0 +1,18 @@
+{% capture pages %}
+	[
+		{% for page in site.pages %}
+			{% if page.title %}
+				{
+				"name"             : "{{ page.title | slugify}}",
+				"url"							 : "{% if page.parent %}/{{ page.parent | slugify }}{% endif %}/{{ page.title | slugify }}",
+				"templateUrl"      : "{{ page.url }}"
+				} {% if forloop.last %}{% else %},{% endif %}
+			{% endif %}
+		{% endfor %}
+	]
+{% endcapture %}
+
+
+<script type="text/javascript" src="{{ "/assets/scripts/behaviors.js" | prepend: site.baseurl }}"></script>
+<script type="text/javascript" src="{{ "/assets/scripts/scripts.js" | prepend: site.baseurl }}"></script>
+<!-- End App -->

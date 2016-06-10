@@ -1,0 +1,9 @@
+{% if include.template %}
+<ul class="unstyle grid-2 rows">
+  {% for post in include.posts %}
+    <li class="col" ng-show="current == {{group}}">
+      {% include {{include.template}} post=post %}
+    </li>
+  {% endfor %}
+</ul>
+{% endif %}
