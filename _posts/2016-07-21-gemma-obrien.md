@@ -6,4 +6,6 @@ categories: 'typography, sign painting, lettering'
 ---
 
 
-http://jackywinter.com/artists/gemma-obrien/ - Amazing lettering.
+Amazing lettering by [Gemma O'Brien](http://jackywinter.com/artists/gemma-obrien/)
+
+![](/uploads/gemmaobrien-heaven-768x512.jpg)
