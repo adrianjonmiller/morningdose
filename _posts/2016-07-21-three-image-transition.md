@@ -10,4 +10,4 @@ categories:
 ---
 
 
-![](/uploads/Image%202016-10-28%20at%2010.39.17%20AM.png)**Fuck this guy...**
+[![](/uploads/Image%202016-10-28%20at%2010.39.17%20AM.png)](http://codepen.io/zadvorsky/pen/PNXbGo/)**Beautiful javascript transition between two images**
