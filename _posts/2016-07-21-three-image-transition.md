@@ -10,4 +10,4 @@ categories:
 ---
 
 
-[![Photo Transition by Szenia Zadvornykh](/uploads/Image%202016-10-28%20at%2010.39.17%20AM.png)](http://codepen.io/zadvorsky/pen/PNXbGo/#code-area)**Beautiful javascript transition between two images**
+[![Photo Transition by Szenia Zadvornykh](/uploads/versions/image-2016-10-28-at-10-39-17-am---x0-0-819-525-819-525x---.png)](http://codepen.io/zadvorsky/pen/PNXbGo/#code-area)**Beautiful javascript transition between two images**
